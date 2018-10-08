@@ -1,0 +1,148 @@
+nomePais	cidadeDestino	tipoFestival	nomeFestival	precoPessoa	precoDiario	epoca	duracao	imagem	informacoes	Campismo	preco	Ambiente	Região	diversao	palcos
+Portugal	Idanha-a-Nova	Eletronica	Boom Festival	150	25	Verao	7	boomfestival.jpg	www.boomfestival.org	Sim	87	Tradicional	Europa	Sim	4
+Portugal	Lisboa	Fado	Caixa Alfama	40	25	Verao	2	caixafama.jpg	www.caixaalfama.pt	Nao	32	Urbano	Europa	Nao	9
+Portugal	Elvas	Eletronica	Freedom Festival	85	20	Verao	5	freedomFestival.jpg	https://www.facebook.com/FreedomFestival.pt	Sim	52	Tradicional	Europa	Nao	2
+Portugal	Portalegre	Variado	Festival do Crato	30	8	Verao	4	crato.jpg	www.festivaldocrato.com	Sim	19	Rural	Europa	Sim	2
+Portugal	Paredes de Coura	Rock	Paredes de Coura	90	40	Verao	3	paredes-de-coura.jpg	www.paredesdecoura.com	Sim	65	Fluvial	Europa	Sim	3
+Portugal	Lisboa	Variado	Rock in Rio Lisboa	18	60	Verao	5	rock-in-rio.jpg	www.rockinriolisboa.sapo.pt	Nao	39	Urbano	Europa	Sim	5
+Portugal	Vila Nova de Gaia	Variado	Meo Mares Vivas	60	35	Verao	3	maresvivas.jpg	www.maresvivas.meo.pt	Sim	47	Urbano	Europa	Nao	4
+Portugal	Oeiras	Variado	Nos Alive	119	56	Verao	3	NOS-Alive.jpg	www.nosalive.com	Sim	87	Urbano	Europa	Sim	4
+Portugal	Porto	Variado	Nos Primavera Sound Porto	80	55	Verao	2	NOS-Primavera-Sound-.jpg	www.nosprimaverasound.com	Nao	67	Urbano	Europa	Nao	4
+Portugal	Zambujeira do Mar	Variado	MEO Sudoeste	95	48	Verao	5	l_meosudoeste2016.jpg	www.sudoeste.meo.pt	Sim	71	Praia	Europa	Sim	3
+Portugal	Sesimbra	Rock	Super Bock Super Rock	95	50	Verao	3	SBSR-V5.jpg	www.superbocksuperrock.pt	Sim	72	Urbano	Europa	Nao	4
+Portugal	Lisboa	Variado	Festival de Inverno	30	25	Inverno	2	festi.inverno.jpg	Indisponivel	Nao	27	Urbano	Europa	Nao	2
+Reino Unido	Glastonbury	Variado	Glastonbury Festival	0	0	Verao	4	glastonbury.jpg	http://www.glastonburyfestivals.co.uk/	Sim	0	Urbano	Europa	Sim	3
+Alemanha	Nuremberga	Rock	Rock am Ring	450	160	Verao	3	rockamring.jpg	http://www.rock-am-ring.com/	Sim	305	Urbano	Europa	Nao	4
+Alemanha	Nuremberga	Rock	Rock im Park	550	195	Verao	3	rock im park.jpg	http://www.rock-im-park.com/	Sim	372	Urbano	Europa	Nao	4
+Belgica	Dessel	Rock	Graspop Metal Meeting	195	95	Verao	3	graspop metal.jpg	https://www.graspop.be/nl/	Sim	145	Urbano	Europa	Nao	3
+Belgica	Werchter	Rock	Rock Werchter	236	100	Verao	4	rock werchter.jpg	http://www.rockwerchter.be/en	Sim	168	Urbano	Europa	Nao	3
+Hungria 	Budapest	Variado	Sziget Festival	249	59	Verao	7	sziget.jpg	http://www.szigetfestival.com/	Sim	154	Urbano	Europa	Sim	5
+Reino Unido	Reading	Variado	Reading Festival	220	70	Verao	3	reading.jpg	http://www.readingfestival.com/	Sim	145	Rural	Europa	Nao	3
+Reino Unido	Leeds	Variado	Leeds Festival	264	77	Verao	3	leeds-stage.jpg	www.leedsfestival.com	Sim	170	Rural	Europa	Sim	3
+Alemanha	Scheebel	Rock	Hurricane Festival	180	75	Verao	3	Hurricane.jpg	www.hurricane.de	Sim	127	Rural	Europa	Nao	2
+Alemanha	Schleswig-Holstein	Rock	Wacked Open Air	200	80	Verao	3	wacked.jpg	www.wacken.com	Sim	140	Rural	Europa	Nao	2
+Dinamarca	Roskilde	Variado	Roskilde	300	130	Verao	8	rockslide.jpg	www.roskilde-festival.dk	Sim	215	Rural	Europa	Nao	7
+Escocia	Kinross	Variado	T in the Park	200	80	Verao	3	t_in_the_park.jpg	www.tinthepark.com	Sim	140	Rural	Europa	Sim	10
+Hungria 	Sopron	Variado	Volt Festival	89	35	Verao	4	volt.jpg	www.sziget.hu	Sim	62	Rural	Europa	Sim	10
+Polonia	Kostrzy nad Odra	Variado	Woodstock Festival Poland	0	0	Verao	3	woodstock.jpg	www.woodstockfestival.pl	Sim	0	Rural	Europa	Sim	2
+Belgica	Boom	Eletronica	Tomorrowland	650	235	Verao	3	tomorrowland_78.jpg	www.tomorrowland.com	Sim	442	Rural	Europa	Sim	15
+Espanha	Castello	Eletronica	Arenal Sound	85	35	Verao	4	arena.jpg	www.arenalsound.com	SIm	60	Praia	Europa	Nao	4
+Holanda	Haarlemmermeer	Eletronica	Mysteryland Festival	0	0	Verao	3	mys.jpg	www.mysteryland.nl	Sim	0	Rural	Europa	Sim	5
+Belgica	Hasselt	Variado	Pukkelpop	200	99	Verao	3	pukk.jpg	www.pukkrlpop.be	Sim	149	Rural	Europa	Sim	6
+Austria	Nickelsdorf	Rock	Nova Rock Festival	160	50	Verao	4	nova_rock.jpg	www.novarock.at	Sim	105	Rural	Europa	Nao	3
+Holanda	Landgraaf	Rock	PinkPop	195	95	Verao	3	pinkpop.jpg	www.pinkpop.nl	Sim	145	Rural	Europa	Nao	3
+Holanda	Biddinghuizen	Variado	Lowlands	175	70	Verao	3	lowland.jpg	www.lowlands.nl	Sim	122	Rural	Europa	Sim	10
+Polonia	Gdynia	Variado	Opener Festival	100	55	Verao	4	open-er-festival.jpg	www.opener.pl	Sim	77	Rural	Europa	Sim	7
+Franca	Carhaix-Plouguer	Variado	Vieilles Charrues Festival	150	45	Verao	4	hqdefault.jpg	www.vieillescharrues.asso.fr	Sim	97	Rural	Europa	Nao	4
+Espanha	Barcelona	Variado	Sonar	180	45	Verao	3	sonar.jpg	www.sonar.es	Sim	112	Urbano	Europa	Nao	5
+Suica	Frauenfeld	Hip-Hop	Openair Frauenfeld	180	90	Verao	3	openair.jpg	www.openair-frauenfeld.ch	Sim	135	Rural	Europa	Nao	1
+Serbia	Novi Sad	Eletronica	Exit Festival	65	30	Verao	4	exit.jpg	www.exitfest.org	Sim	47	Fluvial	Europa	Nao	5
+Belgica	Bruxelas	Variado	Couleur Cafe	95	39	Verao	3	color.jpg	https://www.couleurcafe.be	Sim	67	Urbano	Europa	Sim	6
+Russia	Moscovo	Variado	Afisha picnic Festival	52	52	Verao	1	afisha_picnic_festival_l.jpg	http://picnic.afisha.ru	Nao	52	Rural	Europa	Sim	3
+Franca	Bourges	Variado	Pintemps de Bourges	100	25	Primavera	6	pintemps.jpg	http://www.printemps-bourges.com/en	Nao	62	Urbano	Europa	Nao	13
+Franca	Lyon	Eletronica	Nuits Sonores	140	38	Primavera	5	nuits.jpg	http://www.nuits-sonores.com/en/	Sim	89	Urbano	Europa	Nao	4
+Alemanha	Kastellaun	Eletronica	Nature One Festival	200	79	Verao	3	nature.jpg	https://www.facebook.com/natureone.festival	Sim	139	Rural	Europa	Sim	4
+Noruega	Oslo	Variado	Oya Festival	216	76	Verao	5	oya.jpg	http://oyafestivalen.com/	Sim	146	Fluvial	Europa	Sim	4
+Holanda	Spaarnwoude	Eletronica	Dance Valley	65	65	Verao	1	dance_valley.jpg	http://dancevalley.com/	Nao	65	Rural	Europa	Sim	10
+Finlandia	Seinäjoki	Variado	Provinssirock Festival	210	75	Verao	4	provin.jpg	http://www.provinssi.fi/	Sim	142	Rural	Europa	Sim	2
+Espanha	Bilbao	Variado	Bilbau BBK Live	100	50	Verao	3	bilbau.jpg	http://bilbaobbklive.com/	Sim	75	Rural	Europa	Nao	2
+Irlanda	Stradbally	Eletronica	Eletric Picnic	359	150	Verao	3	eletric.jpg	http://www.electricpicnic.ie/	Sim	254	Rural	Europa	Sim	4
+Suecia	Sölvesborg	Rock	Sweden Rock Festival	280	130	Verao	4	sweden.jpg	www.swedenrock.com	Sim	205	Rural	Europa	Sim	3
+Suica	St. Gallen	Variado	Open Air St. Gallen	0	0	Verao	4	open_stgallen	www.openairsg.ch	Sim	0	Rural	Europa	Nao	3
+Republica Checa	Ostrava	Variado	Colours of Ostrava	85	35	Verao	4	colours_ostrava.jpg	www.colours.cz	Sim	60	Urbano	Europa	Nao	5
+Filandia	Ruissalo	Rock	Ruisrock Festival	145	85	Verao	3	ruisrock.jpg	www.ruisrock.fi	Sim	115	Fluvial	Europa	Nao	2
+Letonia	Salacgriva	Variado	Positivus Festival	80	50	Verao	3	positivus.jpg	www.positivusfestival.com	Sim	65	Rural	Europa	Nao	3
+Franca	Sermamagny	Rock	Eurockeenes de Belfort	115	44	Verao	3	eurockeenes.jpg	www.eurockeennes.fr	Sim	79	Fluvial	Europa	Nao	2
+Republica Checa	Cesky Brod	Rock	Rock for people	58	25	Verao	3	rock_people.jpg	www.rockforpeople.com	Sim	41	Rural	Europa	Nao	2
+Eslovaquia	Trecin	Variado	Pohoda Festival	90	50	Verao	3	pohoda.jpg	www.pohodafestival.sk	Sim	70	Rural	Europa	Sim	5
+Holanda	Weert	Rock	Bospop	100	65	Verao	2	bospop.jpg	www.bospop.nl	Sim	82	Rural	Europa	Sim	2
+Polonia	Cracovia	Variado	Coke Live Music Festival	0	0	Verao	2	cokelive.jpg	www.livefestival.pl	Nao	0	Rural	Europa	Nao	1
+EUA	Nova Iorque	Eletronica	Eletric Daisy Carnival New York	207	107	Primavera	2	eletric_daisy.jpg	http://newyork.electricdaisycarnival.com/	Nao	157	Urbano	America do Norte	Nao	7
+Noruega	Tonsberg	Variado	Slottsfjell Festival	210	103	Verao	4	Slottsfjell_Festival.jpg	http://www.slottsfjell.no/	Nao	156	Rural	Europa	Nao	3
+Austria	Viena	Variado	Urban Art Forms Festival	0	0	Verao	1	urban_art_forms_festival_l.jpg	http://www.urbanartforms.com/	Nao	0	Urbano	Europa	Nao	4
+Canada	Montreal	Variado	Heavy Montreal	186	100	Verao	2	heavy_montreal.jpg	http://www.heavymontreal.com/	Nao	143	Urbano	America do Norte	Nao	2
+Suecia	Ostersund	Variado	Storsjoyran	120	75	Verao	2	storsjoyranfestival.jpg	http://storsjoyran.se/in-english/	Nao	97	Rural	Europa	Nao	8
+Dinamarca	Aarhus	Variado	NorthSide	187	120	Primavera	3	northside.jpg	http://northside.dk/	Nao	153	Rural	Europa	Nao	4
+EUA	Washington	Variado	Sasquatch! Festival 1	316	85	Primavera	4	sasquatch.jpg	https://www.sasquatchfestival.com/	Sim	200	Rural	America do Norte	Nao	3
+EUA	Oklahoma	Rock	Rockahoma	432	126	Primavera	3	rockahoma.jpg	http://rocklahoma.com/	Sim	279	Rural	America do Norte	Sim	3
+Luxemburgo	Roeser	Variado	Rock A Field Festival	85	50	Verao	2	rock_a_field.jpg	http://www.rockafield.lu/	Sim	67	Rural	Europa	Sim	4
+EUA	Boston	Variado	Boston Calling Music Festival	167	70	Primavera	3	boston.jpg	http://bostoncalling.com/	Nao	118	Urbano	America do Norte	Nao	4
+Filandia	Joensuu	Rock	Ilosaarirock Festival	151	79	Verao	3	IlosaarirockFestival.jpg	http://www.ilosaarirock.fi/2016/	Sim	115	Fluvial	Europa	Sim	6
+Holanda	Schijndel	Pop	Passpop	105	69	Primavera	3	passpop.jpg	http://www.paaspop.nl/	Sim	87	Urbano	Europa	Nao	9
+Dinamarca	Skanderborg	Variado	Smukfest	295	90	Verao	5	smukfest.jpg	http://www.smukfest.dk/	Sim	192	Rural	Europa	Sim	2
+Alemanha	Rothenburg ob der Tauber	Variado	Taubertal Festival	109	57	Verao	4	taubertal.jpg	http://www.taubertal-festival.de/cms/	Sim	83	Rural	Europa	Sim	1
+Espanha	Murcia	Variado	SOS 4.8 Festival	119	35	Primavera	3	Festival-SOS-2014.jpg	http://sos48.com/	Sim	77	Urbano	Europa	Nao	3
+Canada	Montreal	Variado	Osheaga	210	80	Verao	3	psheaga.jpg	http://www.osheaga.com/	Nao	145	Urbano	America do Norte	Sim	3
+Hungria 	Zamárdi	Variado	Balaton Sound	190	57	Verao	5	balaton_sound.jpg	http://sziget.hu/balatonsound_english/	Nao	123	Fluvial	Europa	Nao	7
+Irlanda	Dublin	Variado	Longitude Festival	159	64	Verao	3	fv1bSfPm.jpg	http://www.longitude.ie/	Nao	111	Urbano	Europa	Nao	2
+Reino Unido	Brighton	Variado	Great Escape Festival	76	41	Primavera	3	tge14.jpg	http://greatescapefestival.com/	Nao	58	Urbano	Europa	Nao	4
+Serbia	Belgrado	Variado	Belgrade Calling	40	24	Verao	2	belgrade.jpg	Indisponivel	Nao	32	Urbano	Europa	Sim	2
+EUA	Washigton	Eletronica	Paradiso Festival	100	65	Verao	2	paradiso.jpg	http://paradisofestival.com/camping	Sim	82	Fluvial	America do Norte	Nao	3
+EUA	West Virginia	Variado	All Good Music Festival	195	75	Verao	7	all_good_music.jpg	http://allgoodfestival.com/	Sim	135	Rural	America do Norte	Nao	8
+Grecia	Malakasa	Variado	Rockwave Festival	150	40	Verao	4	rockwave.jpg	http://www.rockwavefestival.gr/	Sim	95	Rural	Europa	Sim	3
+Filandia	Helsinki	Variado	Flow Festival	175	92	Verao	2	flow.jpg	http://www.flowfestival.com/en/	Nao	133	Urbano	Europa	Nao	3
+Croacia	Stinjan	Variado	Outlook Festival	175	40	Verao	4	Outlook-Logo-2016.jpg	http://www.outlookfestival.com/	Sim	107	Fluvial	Europa	Nao	3
+Bulgaria	Burgas	Variado	Spirit of Burgas	90	75	Verao	2	spirit_burgas.jpg	http://spiritofburgas.com/static/show_ticket/2	Sim	82	Praia	Europa	Sim	5
+Islandia	Reykjavik	Variado	Iceland Airwaves	135	40	Inverno	4	iceland.jpg	http://icelandairwaves.is/	Nao	87	Praia	Europa	Nao	4
+Croacia	Pula	Variado	Dimensions Festival	190	40	Verao	3	dimensions.jpg	http://www.dimensionsfestival.com	Sim	115	Urbano	Europa	Sim	3
+EUA	Wisconsin	Rock	Rock Fest	120	70	Verao	3	rock_fest.jpg	http://rock-fest.com/	Sim	95	Rural	America do Norte	Nao	5
+Irlanda	Tullamore	Variado	Castlepalooza	115	50	Verao	3	castle-palooza.jpg	http://www.castlepalooza.com/	Sim	82	Rural	Europa	Nao	3
+Portugal	Viana do Castelo	Eletronica	NEOPOP	150	65	Verao	3	neopop.jpg	http://neopopfestival.com/	Sim	107	Praia	Europa	Sim	2
+Holanda	Amesterdao	Eletronica	LOVELAND 909	25	25	Primavera	1	loveland.jpg	http://loveland.nl/	Nao	25	Fluvial	Europa	Nao	4
+Holanda	Utrecht	Eletronica	Geheime Liefde	30	30	Primavera	1	Geheime_Liefde.jpg	http://www.geheimeliefde.nl/	Nao	30	Rural	Europa	Sim	2
+Alemanha	Mannheim	Eletronica	Time Warp Mannheim	69	69	Primavera	1	Timewarp.jpg	http://www.time-warp.de/germany/index_eng.html	Nao	69	Urbano	Europa	Sim	5
+EUA	Tempe, Arizona	Rock	Pot of Gold	110	65	Inverno	3	pot_of_gold.jpg	http://www.potofgoldaz.com/	Sim	87	Rural	America do Norte	Nao	8
+EUA	S. Padre Island, Texas	Eletronica	Ultimate Music Experience	178	90	Inverno	3	ultimate_music_Experience.jpg	https://umesouthpadre.com	Sim	134	Urbano	America do Norte	Nao	6
+EUA	Miami, Florida	Eletronica	Ultra Miami 	350	125	Primavera	3	ulta_miami.jpg	https://ultramusicfestival.com/	Sim	237	Praia	America do Norte	Sim	5
+EUA	ST.Augustin, Florida	Variado	Fool's Paradise	175	100	Primavera	2	fools_paradise.jpg	http://www.foolsparadisefl.com/	Sim	137	Rural	America do Norte	Sim	3
+EUA	Phoenx, Arizona	Eletronica	Phoneix Lights	129	80	Primavera	2	phoenix.jpg	http://phoenixlightsfest.com/	Sim	104	Urbano	America do Norte	Sim	2
+EUA	California	Eletronica	Desert Hearts 	200	70	Primavera	4	desert.jpg	http://www.deserthearts.us/	Sim	135	Tradicional	America do Norte	Sim	2
+EUA	Knoxville	Variado	Big ears	460	150	Primavera	3	big_ears.jpg	http://www.bigearsfestival.com/	Sim	305	Urbano	America do Norte	Nao	8
+Argentina	Buenos Aires	Variado	Bue Festival	0	0	Inverno	2	bue.jpg	http://www.indiehoy.com/agenda/festival-bue-2016/	Sim	0	Rural	America do Sul	Nao	3
+Argentina	Buenos Aires	Rock	Monsters of Rock	85	85	Verao	1	monstersrock.jpg	http://www.setlist.fm/festivals/monsters-of-rock-argentina-3bd6bc00.html	Nao	85	Rural	America do Sul	Nao	1
+Argentina	Buenos Aires	Rock	Quilmes Rock	450	180	Primavera	4	quilmes.jpg	http://fests.eu/pt/festival/quilmes-rock/	Sim	315	Urbano	America do Sul	Nao	7
+Brasil	Rio de Janeiro	Variado	Rock in Rio - Brasil	350	175	Verao	7	rockinriobrasil.jpg	http://rockinrio.com/	Sim	262	Urbano	America do Sul	Sim	5
+Brasil	Villa dos Galpoes	Variado	Planeta Terra Festival	300	300	Inverno	1	planetaterra.jpg	http://musica.terra.com.br/planetaterra/	Nao	300	Urbano	America do Sul	Sim	2
+Brasil	Santa Catarina	Eletronica	Dream Valley	250	150	Inverno	2	dreamvalley.jpg	http://dreamvalleyfestival.com.br/	Nao	200	Rural	America do Sul	Sim	2
+Brasil	Curitiba	Eletronica	Playground Music Festival	60	60	Verao	1	playground.jpg	http://playmf.com.br/	Nao	60	Rural	America do Sul	Sim	3
+Brasil	Morumbi	Variado	Z Festival	220	110	Inverno	2	zfestival.jpg	http://www.xyzlive.com.br/zfestival	Nao	165	Urbano	America do Sul	Nao	1
+Chile	Santiago	Variado	Lollapalooza	125	55	Primavera	2	lollapalooza.jpg	http://www.lollapaloozacl.com/	Sim	90	Urbano	America do Sul	Sim	4
+China	Beijing	Variado	Beijing Pop Festival	40	25	Verao	2	beijing.jpg	http://www.beijingpopfestival.com/	Sim	32	Rural	America do Sul	Nao	1
+China	Beijing	Rock	Modern Sky Festival	75	75	Primavera	1	modernsky.jpg	http://festival.modernsky.com/	Nao	75	Rural	America do Sul	Nao	1
+Tailandia	Pattaya	Eletronica	Wonderfruit	100	40	Inverno	4	wonderfruit.jpg	http://wonderfruitfestival.com/#home	Sim	70	Tradicional	Asia	Sim	1
+Vietname	Vietname	Variado	Quest Festival	38	22	Outono	3	questfestival.jpg	http://www.questfestival.net/	Sim	30	Tradicional	Asia	Sim	3
+Filipinas	Manila	Eletronica	Neverland Manila	74	74	Outono	1	neverlandmanila.jpg	http://nvlmevents.com/	Nao	74	Urbano	Asia	Nao	1
+Singapura	Singapura	Eletronica	Zoukout Music Festival	68	38	Inverno	2	zookout.jpg	http://www.zoukout.ph/	Nao	53	Urbano	Asia	Nao	1
+Tailandia & Indonesia	Bangkok & Bali	Eletronica	Road to Ultra 	263	100	Verao	3	ultramusicfestival.jpg	https://ultramusicfestival.com/	Nao	181	Urbano	Asia	Nao	1
+Malasia & Singapura	Langkawi & Singapura	Eletronica	Its the ship	726	320	Outono	4	itstheship.jpg	http://www.itstheship.com/	Nao	523	Praia	Asia	Sim	1
+Tailandia	Bangkok	Eletronica	Maya Music Festival	90	55	Primavera	2	mayafestival.jpg	http://www.mayamusicfestival.com/	Nao	72	Urbano	Asia	Nao	2
+Tailandia & Malasia	Phuket & Langkawi	Eletronica	Shipsomnia	700	300	Inverno	4	shipsomnia.jpg	http://www.shipsomnia.com/	Nao	500	Praia	Asia	Sim	1
+Tailandia	Khao Yai	Variado	Big Mountain Music Festival	67	42	Outono	2	bigmountainfestival.jpg	http://www.bigmountainmusicfestival.com/	Nao	54	Rural	Asia	Sim	1
+Indonesia	Borneo	Variado	Rainforest World Music Festival	237	88	Verao	3	rainforest.jpg	http://rwmf.net/	Nao	162	Tradicional	Asia	Nao	1
+Itália	Turim	Eletronica	Movement Torino	50	50	Outono	1	Movement-Italy-Poster.jpg	http://www.movement.it/	Nao	50	Urbano	Europa	Nao	1
+Itália	Turim	Variado	Club to Club Torino	90	20	Outono	4	C2CVisual1_2.jpg	http://clubtoclub.it/	Sim	55	Urbano	Europa	Nao	1
+Franca	Lomme	Eletronica	N.A.M.E Festival	50	30	Outono	2	NAME.jpg	http://www.lenamefestival.com/	Nao	40	Urbano	Europa	Nao	1
+Itália	Bolonha	Eletronica	Robot Festival	45	35	Outono	2	robot-festival.jpg	http://www.robotfestival.it/	Nao	40	Urbano	Europa	Nao	1
+Franca	Paris	Variado	Pitchfork Paris	165	65	Outono	3	pitchfork.jpg	http://pitchforkmusicfestival.com/	Nao	115	Urbano	Europa	Nao	1
+EUA	Chattahoochee	Variado	TomorrowWorld	300	150	Outono	3	tomorrowworld.jpg	http://www.tomorrowworld.com/	Sim	225	Rural	America do Norte	Sim	14
+Holanda	Amesterdao	Variado	Amsterdam Dance Event	450	275	Outono	5	amsterdam-dance-event.jpg	http://www.amsterdam-dance-event.nl/	Sim	362	Urbano	Europa	Nao	1
+Australia	Goulburn	Variado	Australian Blues Music Festival	0	0	Primavera	4	australia.jpg	http://www.australianbluesmusicfestival.info/	Nao	0	Rural	Oceania	Nao	4
+Australia	Melbourne	Variado	Festival of King Insland	45	20	Primavera	3	australia2.jpg	http://www.foki.com.au/	Sim	32	Urbano	Oceania	Nao	1
+Australia	Melbourne	Variado	Paradise Music Festival	45	28	Outono	2	australia3.jpg	http://www.paradisemusic.com.au/	Sim	36	Rural	Oceania	Nao	1
+Zimbabwe	Harere	Variado	Harare International Festival of the Arts	0	0	Primavera	6	hifa.jpg	http://www.hifa.co.zw/	Sim	0	Tradicional	Africa	Nao	1
+Malawi	Lake Malawi	Variado	Lake of Stars	95	0	Outono	3	malaki.jpg	http://lakeofstars.org/	Sim	47	Praia	Africa	Nao	1
+Brasil	Sao Paulo	Fado	Festival de Fado	180	40	Outono	3	cuca.jpg	http://festivalfadobrasil.com/#	Nao	110	Urbano	America do Sul	Nao	1
+Brasil	Rio de Janeiro	Fado	Festival do Fado Brasil	0	0	Verao	4	fado.jpg	http://www.everythingisnew.pt/festival-do-fado-brasil	Nao	0	Urbano	America do Sul	Nao	1
+Argentina	Salta	Pop	Pop Festival	0	160	Primavera	1	pop.jpg	https://pt.wikipedia.org/wiki/Pop_Festival	Nao	80	Urbano	America do Sul	Nao	2
+Alemanha	Berlim	Eletronica	Club Transmediale	0	20	Inverno	7	clube.jpg	http://www.ctm-festival.de/news/	Nao	10	Urbano	Europa	Nao	1
+Alemanha	Suderholz	Rock	Force Attack	0	30	Verao	3	forceattack.jpg	http://www.forceattack.de/	Sim	15	Rural	Europa	Sim	1
+Alemanha	Center Parc Bispinger Heide	Eletronica	Baltic Soul Weekender	950	300	Primavera	3	baltic.jpg	http://www.baltic-soul.de/	Sim	625	Urbano	Europa	Nao	1
+Alemanha	Larz	Eletronica	Fusion Festival	75	30	Verao	3	fusion.jpg	http://www.fusion-festival.de/	Sim	52	Rural	Europa	Sim	3
+Alemanha	Hidesshiem	Variado	Mera Luna Festival	385	94	Verao	2	meraluna.jpg	http://www.meraluna.de/	Sim	239	Rural	Europa	Sim	2
+Alemanha	Whitsuntide	Variado	Wave-Gotik-Treffen	280	120	Primavera	4	gotik2.jpg	http://www.wave-gotik-treffen.de/english/	Sim	200	Rural	Europa	Sim	1
+Austria	Danubio	Rock	Donauinselfest	0	0	Verao	3	Donauinselfest.jpg	https://2016.donauinselfest.at/	Sim	0	Fluvial	Europa	Sim	5
+Austria	Arcadia Musikagentur	Rock	Nuke Musikfestival	110	0	Verao	2	NukeMusikfestival.jpg	http://www.nuke.at/	Sim	55	Urbano	Europa	Sim	1
+Brasil	Rio Grande do Sul	Variado	Planeta Atlantida	245	97	Primavera	2	PlanetaAtlantida.jpg	https://www.planetaatlantida2016.com.br/	Sim	171	Urbano	America do Sul	Nao	5
+Australia	Sydney	Variado	Big Day Out	0	0	Inverno	1	bigdayout.jpg	http://www.bigdayout.com/	Nao	0	Urbano	Oceania	Nao	2
+Nova Zelandia	Gisborn	Variado	Rhythm and Vines	170	60	Inverno	3	rhythmvines.jpg	http://www.rhythmandvines.co.nz/	Sim	115	Rural	Oceania	Nao	1
+EUA	Brooklyn	Hip-Hop	Brooklyn Hip-Pop Festival	150	50	Verao	4	2013-bhf-logo.jpg	http://www.bkhiphopfestival.com/	Nao	100	Urbano	America do Norte	Nao	1
